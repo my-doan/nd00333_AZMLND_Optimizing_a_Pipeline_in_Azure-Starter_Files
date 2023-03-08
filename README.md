@@ -58,3 +58,5 @@ For the AutoML model, there is imbalanced data (our target column has 32950 valu
 ## Proof of cluster clean up
 **If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
 **Image of cluster marked for deletion**
+
+![compute-delete](https://user-images.githubusercontent.com/71798045/223868473-3c7f7b82-da48-4319-ad3d-e802c6a13da2.PNG)
